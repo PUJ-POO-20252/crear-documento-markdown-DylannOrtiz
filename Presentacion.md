@@ -13,3 +13,7 @@ Este es el repositorio para la tarea 1 del curso. El objetivo es demostrar el fl
 2. Creacion de este archivo `presentacion.md`
 
 3. conexion con GitHub
+
+## Nota adicional
+
+Este archivo fue editado desde el repositorio local como parte del flujo de trabajo con Git y errores mios por hacer todo alrevez
