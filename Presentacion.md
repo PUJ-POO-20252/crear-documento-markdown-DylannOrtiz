@@ -37,13 +37,13 @@ git push
 ```
 ## Canciones escuchadas durante el proceso de esta tarea 
 
-Cancion | Autor
-------- | ------
-In the pool | Kensuke Ushio
-Dardos | Romeo santos, Principe Royce
-Sienna | The Marias 
-Restless Dreams | dxnrm
-DIABLA | Los Diozes
+Cancion | Autor | Enlaces
+------- | ------ | -------
+In the pool | Kensuke Ushio | [YouTube](https://www.youtube.com/results?search_query=Kensuke+Ushio+In+the+Pool)
+Dardos | Romeo santos, Principe Royce | [YouTube](https://www.youtube.com/results?search_query=Romeo+Santos+Prince+Royce+Dardos)
+Sienna | The Marias | [YouTube](https://www.youtube.com/results?search_query=The+Marias+Sienna)
+Restless Dreams | dxnrm | [YouTube](https://www.youtube.com/results?search_query=dxnrm+Restless+Dreams)
+DIABLA | Los Diozes | [YouTube](https://www.youtube.com/results?search_query=Los+Diozes+Diabla)
 
 
 
