@@ -14,14 +14,14 @@ Este es el repositorio para la tarea 1 del curso. El objetivo es demostrar el fl
 
 3. conexion con GitHub
 
-![Animation](giphy.gif)
+![Animación](giphy.gif)
 
 
 ## Nota adicional 🐱‍👤
 
 Este archivo fue editado desde el repositorio local como parte del flujo de trabajo con Git y errores mios por hacer todo alrevez
 
-![Animated](rei.gif)
+![Animación](rei.gif)
 
 
 ---
@@ -41,7 +41,7 @@ git log
 git remote
 git push
 ```
-![Animated](programing.mp4)
+[Animación](programing.mp4)
 
 
 ## Canciones escuchadas durante el proceso de esta tarea 🔊🎧🎶
