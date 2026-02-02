@@ -41,7 +41,7 @@ git log
 git remote
 git push
 ```
-[Animación](programing.mp4)
+[Animación](programing.gif)
 
 
 ## Canciones escuchadas durante el proceso de esta tarea 🔊🎧🎶
@@ -55,7 +55,7 @@ Restless Dreams | dxnrm | [YouTube](https://www.youtube.com/results?search_query
 DIABLA | Los Diozes | [YouTube](https://www.youtube.com/results?search_query=Los+Diozes+Diabla)
 
 
-![Animación](rezegif.mp4)
+![Animación](rezegif.gif)
 
 
 ---
