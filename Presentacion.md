@@ -41,7 +41,7 @@ git log
 git remote
 git push
 ```
-[Animación](programing.gif)
+![Animación](programing.gif)
 
 
 ## Canciones escuchadas durante el proceso de esta tarea 🔊🎧🎶
