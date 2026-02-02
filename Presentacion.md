@@ -21,7 +21,7 @@ Este es el repositorio para la tarea 1 del curso. El objetivo es demostrar el fl
 
 Este archivo fue editado desde el repositorio local como parte del flujo de trabajo con Git y errores mios por hacer todo alrevez
 
-[Animated](rei.gif)
+![Animated](rei.gif)
 
 
 ---
@@ -41,7 +41,7 @@ git log
 git remote
 git push
 ```
-[Animated](programing.mp4)
+![Animated](programing.mp4)
 
 
 ## Canciones escuchadas durante el proceso de esta tarea 🔊🎧🎶
