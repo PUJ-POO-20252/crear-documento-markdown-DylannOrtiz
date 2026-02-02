@@ -52,7 +52,7 @@ DIABLA | Los Diozes | [YouTube](https://www.youtube.com/results?search_query=Los
 ## ¿Quien soy?
 Mi Nombre es Dylan Alejandro Ortiz Usma , tengo 17 años , soy estudiante de 2 semestre de la (**Pontificia Universidad Javeriana Cali**). Soy una persona que le gustan mucho los videojuegos y escuchar musica de todo tipo, soy una persona muy introvertida pero me gusta pasar el rato con mis amigos y uno de mis sueños es ser ingeniero en sistemas para crear un videojuego y asi representar mi pais a mi modo. Me gusta ver peliculas , anime , series y leer uno que otro libro.
 
-![Imagen](lunaimagen.jpg)
+![Imagen](lunaimagen.jpeg)
 
 
 
