@@ -69,7 +69,7 @@ Mi Nombre es Dylan Alejandro Ortiz Usma , tengo 17 años , soy estudiante de 2 s
 ## Lenguajes de Programacion aprendidos
 
 - [x] Phyton (Basico)
-- [ ] Git Bash
+- [x] Git Bash
 - [ ] C++
 - [ ] HTML
 - [ ] Assembly
