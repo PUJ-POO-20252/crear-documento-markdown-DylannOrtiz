@@ -14,8 +14,6 @@ Este es el repositorio para la tarea 1 del curso. El objetivo es demostrar el fl
 
 3. conexion con GitHub
 
-![Animación](giphy.gif)
-
 
 ## Nota adicional 🐱‍👤
 
